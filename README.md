@@ -65,8 +65,6 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DhifaBarata&show_icons=true&cache_seconds=86400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhifaBarata&layout=compact&cache_seconds=86400)
 ![GitHub Streak](https://streak-stats.demolab.com?user=DhifaBarata)
 
 ---
