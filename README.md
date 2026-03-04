@@ -77,8 +77,8 @@
 
 # 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram)](https://instagram.com/)
-[![YouTube](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://youtube.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram)](https://www.instagram.com/imndhipp._/)
+[![YouTube](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://youtube.com/Dhifa-barata-putra)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com)
 
 ---
