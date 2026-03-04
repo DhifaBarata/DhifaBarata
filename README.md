@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-6f96d1cb-4df2-4b9c-8d8e-6b2b8a9c7c0e.gif" width="100%">
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Dhifa%20Barata&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Networking%20%7C%20IoT%20%7C%20Developer&descAlignY=60&descAlign=50"/>
 
 # Hi 👋, I'm Dhifa Barata
@@ -78,9 +82,13 @@
 # 🌐 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram)](https://www.instagram.com/imndhipp._/)
-[![YouTube](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://youtube.com/Dhifa-barata-putra)
+[![YouTube](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://youtube.com/Dhifabarata16)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com)
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-8b1f8c5c-1c7e-4c62-9c02-35e3c2c1f8b1.gif" width="100%">
+</p>
