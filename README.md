@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Dhifa%20Barata&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Networking%20%7C%20IoT%20%7C%20Developer&descAlignY=60&descAlign=50"/>
 
 # Hi 👋, I'm Dhifa Barata
 
