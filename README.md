@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Dhifa%20Barata&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Dhifa%20Barata&fontSize=45&fontColor=ffffff"/>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Networking+Engineer;IoT+Developer;Web+Developer;Tech+Enthusiast"/>
+</p>
 
 # Hi 👋, I'm Dhifa Barata
 
@@ -28,10 +32,6 @@
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JS](https://skillicons.dev/icons?i=js)
 
-### 📱 App Development
-![My Skills](https://skillicons.dev/icons?i=android,flutter)
-![Flutter](https://skillicons.dev/icons?i=flutter)
-
 ### 🤖 IoT
 ![Arduino](https://skillicons.dev/icons?i=arduino)
 ![RaspberryPi](https://skillicons.dev/icons?i=raspberrypi)
@@ -48,18 +48,23 @@
 ### 🌐 Website Projects
 - Personal Portfolio Website
 - Simple Blog Website
+- Cabang OR Tournament (CaborNation)
 
 ### 📱 Application Projects
 - Calculator App
 - Notes App
+- Manajemen Inventaris
+- Menu Caffe Shop
 
 ### 📡 IoT Projects
 - Smart Home System
 - IoT Temperature Monitoring
+- Face Recognition
 
 ### 🌐 Networking Projects
 - Linux Server Setup
 - Basic Network Configuration
+- Set Linux Server
 
 ---
 
