@@ -29,7 +29,7 @@
 ![JS](https://skillicons.dev/icons?i=js)
 
 ### 📱 App Development
-![Android](https://skillicons.dev/icons?i=android)
+![My Skills](https://skillicons.dev/icons?i=android,flutter)
 ![Flutter](https://skillicons.dev/icons?i=flutter)
 
 ### 🤖 IoT
@@ -63,11 +63,10 @@
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DhifaBarata&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhifaBarata&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DhifaBarata&show_icons=true&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhifaBarata&layout=compact&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com?user=DhifaBarata)
 
 ---
 
