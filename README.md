@@ -1,8 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Dhifa%20Barata&fontSize=45&fontColor=ffffff"/>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Networking+Engineer;IoT+Developer;Web+Developer;Tech+Enthusiast"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&text=Dhifa%20Barata%20Developer&fontSize=40&fontColor=00ffcc&animation=twinkling"/>
 
 # Hi 👋, I'm Dhifa Barata
 
